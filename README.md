@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/github/training-kit.svg?branch=master)](https://travis-ci.org/github/training-kit)
 
+hmm cool
 # GitHub Training Kit
 ### Home of GitHub's On-Demand training
 
